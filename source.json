@@ -14,8 +14,7 @@
     },
     "bannerUrl": "banner.png",
     "githubRepos": [
-        "ColorlessColor/HierarchyPlus",
-        "ColorlessColor/LightLimitChangerForMA"
+        "ColorlessColor/HierarchyPlus"
     ],
     "packages": []
 }
